@@ -1,0 +1,7 @@
+additional_weights/*
+data/*
+!data/.gitkeep
+output/*
+utils/__pycache__/*
+wandb/*
+metaformer
