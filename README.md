@@ -1,6 +1,6 @@
 # Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition [NeurIPS-23]
 
-[![Arxiv Paper](https://img.shields.io/badge/arXiv-Paper-orange.svg)](https://arxiv.org/abs/YOUR_PAPER_ID)
+[![Arxiv Paper](https://img.shields.io/badge/arXiv-Paper-orange.svg)](https://arxiv.org/abs/2310.15165)
 
 
 # 🚀 News
