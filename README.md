@@ -186,5 +186,10 @@ We extend our gratitude to the authors of [MetaFormer Baselines for Vision](http
 If you find this work helpful and use it in your projects or publications, please cite our paper:
 
 ```
-[Author Names]. (2023). Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition. [Publisher/Conference Details]. [URL if available]
+@article{pieri2023handling,
+  title={Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition},
+  author={Pieri, Sara and Restom, Jose Renato and Horvath, Samuel and Cholakkal, Hisham},
+  journal={arXiv preprint arXiv:2310.15165},
+  year={2023}
+}
 ```
